@@ -1,0 +1,16 @@
+/*Jeremy Gurzynski 
+    jgurzynski85952@uat.edu
+    23OCT23
+   This is for week 3 of CSC102*/
+
+/*Gave light blue background for smoothness
+Font family set for Times New Roman for more professionality*/
+body{
+	background-color:  #9ab7d7;
+    font-family: 'Times New Roman', Times, serif; 
+}
+/*Memes padded to left for little extra centering*/
+#meme{ 
+    padding-left: 30px;
+}
+
